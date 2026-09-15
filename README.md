@@ -64,7 +64,9 @@ O **Go Task** é uma aplicação web de gerenciamento de tarefas no estilo Kanba
 
 - **Gerenciamento de Tarefas (CRUD):**
   - **Criação:** Adicione novas tarefas com título e descrição.
+      - Utilizando modal dialog
   - **Edição:** Atualize o conteúdo das tarefas existentes.
+      - Utilizando modal dialog
   - **Exclusão:** Remova tarefas que não são mais necessárias.
 - **Quadro Kanban Interativo (Drag & Drop):**
   - Movimente cards facilmente entre os status: **A Fazer** (`TODO`), **Fazendo** (`DOING`) e **Concluído** (`DONE`).
